@@ -1,0 +1,15 @@
+{
+    "rnatest": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-myreactnativesandbox-rnatest-94025-authRole",
+            "UnauthRoleArn": "arn:aws:iam::824313364758:role/amplify-myreactnativesandbox-rnatest-94025-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::824313364758:role/amplify-myreactnativesandbox-rnatest-94025-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-myreactnativesandbox-rnatest-94025-deployment",
+            "UnauthRoleName": "amplify-myreactnativesandbox-rnatest-94025-unauthRole",
+            "StackName": "amplify-myreactnativesandbox-rnatest-94025",
+            "StackId": "arn:aws:cloudformation:us-east-2:824313364758:stack/amplify-myreactnativesandbox-rnatest-94025/a0dd01f0-4437-11ea-987e-0279c28b0d70",
+            "AmplifyAppId": "d3oyfgfa2pj1i2"
+        }
+    }
+}
